@@ -1,0 +1,1162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and plaine tractate of the Lords Supper grounded upon I Cor. II, 23, &amp;c. / by VVilliam More ...</title>
+            <author>More, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51330</idno>
+            <idno type="STC">Wing M2694</idno>
+            <idno type="STC">ESTC R4121</idno>
+            <idno type="EEBO-CITATION">12968407</idno>
+            <idno type="OCLC">ocm 12968407</idno>
+            <idno type="VID">96134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96134)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and plaine tractate of the Lords Supper grounded upon I Cor. II, 23, &amp;c. / by VVilliam More ...</title>
+                  <author>More, William, 17th cent.</author>
+               </titleStmt>
+               <extent>[5], 64, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. for Charles Green, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96134:1"/>
+            <pb facs="tcp:96134:1" rendition="simple:additions"/>
+            <p>A ſhort and plaine TRACTATE OF THE LORDS SVPPER: Grounded upon 1
+<hi>Cor.</hi> 11.23. <hi>&amp;c.</hi>
+            </p>
+            <p>By VVILLIAM MORE, Miniſter of Gods Word.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. H.</hi> for <hi>Charles Green,</hi> and are to be ſold at his ſhop in <hi>Ivy Lane,</hi> 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96134:2"/>
+            <pb facs="tcp:96134:2"/>
+            <head>To the Right Honourable, the Lady FRANCIS HOBERT, Wife of the Honourable Sir JOHN HOBERT Knight and Baronet.</head>
+            <opener>
+               <salute>MADAM:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He many obligements in which I acknowledge my ſelfe tyed unto your ho<g ref="char:EOLhyphen"/>nours honourable hus<g ref="char:EOLhyphen"/>band (who hath been Gods gracious in<g ref="char:EOLhyphen"/>ſtrument in preſerving me from the unjuſt oppreſsion of the perverſe; though I be not repaired in my ſuffe<g ref="char:EOLhyphen"/>rings) have made me humbly to preſent<pb facs="tcp:96134:3"/>unto your Honour (as a true token of a gratefull minde) this little Tractate; ſhort, as might be, ſhunning obſcurity; and plaine according to my beſt poſsibi<g ref="char:EOLhyphen"/>lity. Though <hi>Momus</hi> carp, <hi>I</hi> care not: The Word of God is not bound. Receive, honourable Lady, this mite from him who daily doth plead at the Throne of Grace for your honours ho<g ref="char:EOLhyphen"/>nourable husband, for your honou<g ref="char:EOLhyphen"/>rable Ladiſhip; And happy hopefull Children: And who is really,</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Honours humble ſervant in the Lord, WILLIAM MORE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96134:3"/>
+            <head>
+               <hi>EMMAN<g ref="char:V">Ʋ</g>EL.</hi> A ſhort and plaine Tractate of the LORDS SUPPER: grounded on 1 Cor. 11.23. &amp;c.</head>
+            <div type="section">
+               <p>Q. <hi>
+                     <seg rend="decorInit">W</seg>Hat is a Sacrament of the new Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A divine Inſtituti<g ref="char:EOLhyphen"/>on; in which by viſible ſignes, all the bleſſings of the new Covenant are re<g ref="char:EOLhyphen"/>preſented, given, ſealed and applied (that is, Jeſus Chriſt and all his graces) unto all faith<g ref="char:EOLhyphen"/>full receivers, Mat. 3.11. Act. 19. Mat. 26.26. Rom. 4.11. Joh. 1.12.</p>
+               <p>Q. <hi>How many Sacraments are in the New Covenant?</hi>
+               </p>
+               <p>A. Two: Baptiſme and the Lords Sup<g ref="char:EOLhyphen"/>per. Our Lord, nor his Apoſtles ordained no more.</p>
+               <p>Q. <hi>What is the Lords Supper?</hi>
+               </p>
+               <p>
+                  <pb n="2" facs="tcp:96134:4"/>
+                  <hi>A.</hi> A Sacrament of the faithfull, their ſpi<g ref="char:EOLhyphen"/>rituall nouriſhment, and increaſe of grace through Chriſt, 1 Pet. 2.2.</p>
+               <p>Q. <hi>Doth not the Lords Supper worke faith in thoſe who receive it, though they lack faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No: For, as no temporall food can make a dead childe to live; no more can this ſpirituall food any who is ſpiritually dead, Mat.
+7.6.</p>
+               <p>Q. <hi>Muſt we communicate often?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: for our ſoules (like our bodies) muſt be often fed; and we muſt labour for it, Joh. 6.27.</p>
+               <p>Q. <hi>We are but once baptiſed; why ſhould wee often communicate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> As there is but one beginning of natu<g ref="char:EOLhyphen"/>rall life, and yet, it muſt be often fed: ſo there is but one beginning of ſpirituall life (which is faith, Rom. 1.17.) And it likewiſe muſt be often fed, 2 Pet.
+<hi>ult. ult.</hi>
+               </p>
+               <p>Q. <hi>Why is both bread and wine given in the Lords Supper.</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. As our bodies muſt be fed both with meat and drinke: ſo our ſoules muſt be fed with Chriſts body (which is that true bread that ſtrengthneth our heart) and with his bloud which maketh the heart glad, Pſ. 104.15</p>
+               <p n="2">
+                  <pb n="3" facs="tcp:96134:4"/>2. To demonſtrate that Chriſt is the only <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll, and perfect food of our ſoules, Joh. 6.51.</p>
+               <p>Q. <hi>May not infants baptized, ignorants, of perverſe indiſpoſition, naturall fooles, obſtinate, malicious, groſſely ſcandalous ſinners, drunken men, be admitted to this S. Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No: becauſe they cannot diſcerne the Lords body,
+1 Cor. 11.29.</p>
+               <p>Q. <hi>How many parts are there of the Lords Supper?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> Foure: 1. A lawfully admitted Mini<g ref="char:EOLhyphen"/>ſter.</p>
+               <p n="2">2. The elements, bread and wine.</p>
+               <p n="3">3. The words of Inſtitution.</p>
+               <p n="4">4. And a competent number of communi<g ref="char:EOLhyphen"/>cants.</p>
+               <p>Q. <hi>Are all thoſe neceſſary parts of it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: any of thoſe wanting, there can be no true Sacrament.</p>
+               <p>
+                  <hi>Q. May not any of the effectually called ad<g ref="char:EOLhyphen"/>miniſter this Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No: for none may adminiſter the Sa<g ref="char:EOLhyphen"/>craments but Preachers, Mat. <hi>ult.</hi> 19. And none may preach except they be ſent of God, Rom. 10.14. And thoſe who are ſent of God muſt be lawfully admitted,
+1 Tim. 4.14. Heb. 5.4.</p>
+            </div>
+            <div type="section">
+               <pb n="4" facs="tcp:96134:5"/>
+               <head>1 Cor. 11.23. <hi>The Lord Ieſus the ſame night in which he was betrayed, took bread.</hi>
+               </head>
+               <p>Q. <hi>Who did firſt inſtitute this Lords Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Lord Jeſus himſelfe, Mat. 6.26. Mark. 14.22. Luk. 22.19. 1 Cor. 11.23.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Seeing my Lord did inſtitute it, I muſt in filiall feare obſerve his commands in preparing my ſelfe to take it, it tending ſo much to his glory, and to my ſalvation, Mal. 1.6.</p>
+               <p n="2">2. And ſeeing he is Jeſus my Saviour, Mat.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21. I muſt in love to advance his honour, and mine owne ſalvation, hunger for it, Mat. 5.6.</p>
+               <p>Q. <hi>Seeing Chriſt gave it in the night, muſt not we doe ſo likewiſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No: unleſſe it be in times of perſe<g ref="char:EOLhyphen"/>cution.</p>
+               <p n="1">1. Becauſe that Sacrament of the Old Covenant the Paſſeover, behoved to be en<g ref="char:EOLhyphen"/>ded, before this Sacrament of the New Co<g ref="char:EOLhyphen"/>venant, the Lords Supper was inſtituted; for<pb n="5" facs="tcp:96134:5"/>this ſucceeded to that, Luk. 22.15.16.</p>
+               <p n="2">2. The Paſcall lamb was commanded to be killed in the evening, Exod. 12.6. and ea<g ref="char:EOLhyphen"/>ten that ſame night, v. 8.</p>
+               <p n="3">3. This Supper was inſtituted as near be<g ref="char:EOLhyphen"/>fore Chriſts death as poſſible could be, to the and that nothing might be altered in it, added to it, nor taken from it, Heb. 9.17.</p>
+               <p n="4">4. That this legacy bequeathed by our Lords latter will unto all the faithfull, might be more firmly fixed in our memories.</p>
+               <p>No ſuch neceſſitie, <hi>viz.</hi> perſecution urge us.</p>
+            </div>
+            <div type="section">
+               <head>Tooke bread.</head>
+               <p>Q. <hi>Why did our Lord take bread to reſemble his body?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. As our bodies cannot ordinarily live without bread (which ſtrengthneth mans heart, Pſ. 104.15.) no more can our ſouls live wanting Chriſt, who is the living life, giving bread, that gives eternall life, Joh. 6.51.</p>
+               <p n="2">2. Chriſt tooke bread, for its generality: becauſe of all meats, bread is moſt generally knowne, moſt univerſally uſed; and in moſt Countries moſt eaſily acquired.</p>
+               <p n="3">3. Becauſe of breads likeneſſe: for of all
+<pb n="6" facs="tcp:96134:6"/>creatures which are eaten, bread moſt re<g ref="char:EOLhyphen"/>ſembles Chriſts body; And hence He calleth His body the true bread which came downe from heaven, Joh. 6.32.35.</p>
+               <p n="4">4. As bread is needfull for all meats: So is our Lord for us in all matters moſt neceſſa<g ref="char:EOLhyphen"/>ry, Joh. 15.5. 1 Cor. 1.30.</p>
+               <p n="5">5. As the bread hath endured all kindes of breaking ere it can be food for my body: So Chriſt ſuffered all kindes of death (death in ſinne only excepted) ere he could be food for my ſoule, Heb. 2.9.10.</p>
+               <p>Q. <hi>What doth this teach thee?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I muſt labour for the fulneſſe of faith, that I may get the bread which endureth unto life everlaſting, Joh. 6.27.</p>
+               <p>Q. <hi>What doth that bread ſignifie?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Chriſts body, as his owne words prove, This is my body.</p>
+               <p n="2">2. As it is but one bread made of many graines: ſo all the elect are members one of another, Epheſ. 4.25. are all members of Chriſts myſticall body, Epheſ. 5.30. and Chriſt is their head, v.
+23.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I muſt love Chriſt above all things, Mat. 22.37. and my neighbour as my ſelfe,<pb n="7" facs="tcp:96134:6"/>v. 39. eſpecially the faithfull, Gal. 6.10.</p>
+               <p>Q. <hi>What kinde of bread tooke Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Common table bread, unleavened: for no leavened bread might be eaten at the Paſſeover, Ex. 12.15.</p>
+               <p>Q <hi>What was meant by leaven there?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Falſe doctrine, Mat. 16.22. Hypocri<g ref="char:EOLhyphen"/>ſie, Luk.
+12.2. Malice, and wickedneſſe, 1 Cor. 5.8.</p>
+               <p>Q. <hi>What ſhould that teach thee?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thoſe all muſt bee rooted out of my heart, before I adventure to the Lords Table, 1 Cor. 5.8. otherwiſe I ſhall come unwor<g ref="char:EOLhyphen"/>thily, to mine own damnation, 1 Cor. 11.29.</p>
+               <p>Q. <hi>What forme was that bread of?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> S. Scripture is ſilent of that.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The vanity of Papiſts, Prelats, and Lu<g ref="char:EOLhyphen"/>therans, who uſe thin wafers printed with a crucifix.</p>
+            </div>
+            <div type="section">
+               <head>V. 24 <hi>And when he had given thanks, &amp;c.</hi>
+               </head>
+               <p>Q. <hi>What is meant by thoſe words?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Chriſt would not breake that bread,
+<pb n="8" facs="tcp:96134:7"/>untill He firſt thankt his heavenly Father for it, Luk.
+22.19. and bleſſed it, Mat. 26.26.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. As Chriſt was both ready and willing to lay downe His life for me, Joh. 10.18. and thankt His Father who made Him redempti<g ref="char:EOLhyphen"/>on unto me, 1 Cor. 1.30. So ſhould I be rea<g ref="char:EOLhyphen"/>dy, willing, and thanke the Lord, if he will count me worthy to ſuffer ſhame (which is worſe then death) for His ſake, Act. 5.41.</p>
+               <p n="2">2. In every thing (eſpecially for giving Chriſt to ſive me, Act. 4.12.) to give thanks 1 Theſ. 5.10.</p>
+            </div>
+            <div type="section">
+               <head>He brake it.</head>
+               <p>Q. <hi>What is meant by breaking of that bread?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Its breaking was partly neceſſary, that one bread might be divided amongſt many; &amp; partly myſterious, to ſignifie that Chriſt was broken for all the elect, Eſay 53.4.5. Ioh. 19. the whole Chapter.</p>
+               <p>Q. <hi>Did Chriſt ſuffer in his ſoule?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: as is evident, Mat. 27.46. Luk. 22.44.</p>
+               <p>Q. <hi>Did Chriſt ſuffer in his Godhead?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> As Chriſt is God, He is All ſufficient,
+<pb n="9" facs="tcp:96134:7"/>Gen. 17.1. His Godhead therefore could not ſuffer.</p>
+               <p>Q. <hi>Seeing that Chriſt was made like unto us in all things, ſin excepted, Heb.</hi> 2.17. <hi>compared with Heb.</hi> 4.15. <hi>How could He ſatisfie Gods in<g ref="char:EOLhyphen"/>finitly wronged juſtice, if His Godhead did not ſuf<g ref="char:EOLhyphen"/>fer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The excellency of the party who ſuffe<g ref="char:EOLhyphen"/>red (even Ieſus Chriſt, God-man in one per<g ref="char:EOLhyphen"/>ſon, the great Mediator betwixt God and the elect) being infinite, gave infinite ſatisfacti<g ref="char:EOLhyphen"/>on to his Fathers infinite juſtice.</p>
+               <p>For, although His Godhead neither did, nor could ſuffer. Yet Jeſus was crucified, Act. 1.36. The Prince of life was killed, Act. 3.15. Chriſt dyed for us, Rom. 14.9. The Lord of glory was crucified, 1 Cor. 2.8. The Father ſpared not His owne Son, but delivered Him up for us all, Rom.
+8.32. And the Son of God gave himſelfe for us, Gal. 2.20.</p>
+               <p>Such an infinite perſon therefore ſuffering, Gods infinite juſtice is ſatisfied to the full, as the father Himſelfe acknowledgeth, Matth. 17.5.</p>
+               <p>Q. <hi>What doth this teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. If I receive this Supper faithfully, I get the great Mediator, who was broken<pb n="10" facs="tcp:96134:8"/>for me; and ſo I cannot be damned, Rom. 8.1. Ioh. 6.54. Yea, I am made one of the ſons of God, Ioh.
+1.12.</p>
+               <p n="2">2. Seeing that Chriſt was broken for my ſins, I muſt break off my ſins by repentance before I dare communicate, becauſe God is of purer eyes then to behold evill, and cannot looke on iniquity, Hab.
+1.13.</p>
+            </div>
+            <div type="section">
+               <head>And ſaid, Take.</head>
+               <p>Q. <hi>To whom ſaid Chriſt this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Unto all who were preſent, even to His twelve Apoſtles; for none other might be preſent at the Paſſeover with him, Exod. 12.3.</p>
+               <p>Q. <hi>No woman was there; muſt they now bee excluded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God forbid: women are elected, 2 Ioh. v. 1.
+<hi>ult.</hi>
+               </p>
+               <p>Q. <hi>Did Judas communicate at the Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He ate of the Paſcall lamb, which was the type of Chriſt, and was Chriſt in ſignifi<g ref="char:EOLhyphen"/>cation. The difference is in this, under the Law they received Chriſt to come: under the Goſpell we receive Chriſt come already.</p>
+               <p>Q. <hi>How did they take it?</hi>
+               </p>
+               <p>
+                  <pb n="11" facs="tcp:96134:8"/>
+                  <hi>A.</hi> With their hands; otherwiſe it could not have been a perfect communion: which, in this Supper, was firſt between Chriſt the head, and the faithfull, His members: And ſecondly, between the faithfull communi<g ref="char:EOLhyphen"/>cants amongſt themſelves.</p>
+               <p>Q. <hi>What table geſture did they uſe at this Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Chriſt, and they all did ſit, Mat. 26.20. Mark.
+14.18. Luk. 22.14. Ioh. 13.4.12.</p>
+               <p>Q. <hi>Some ſay they leaned, and ſat not?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If ſo, one hand had been uſeleſſe. And if ſo, yet it was the table geſture of that Countrey.</p>
+               <p>Q. <hi>May not we kneel now when we commu<g ref="char:EOLhyphen"/>nicate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No: otherwiſe we violate the Inſtitution, and break Chriſts command, Doe this, &amp;c.</p>
+               <p>Q. <hi>What hurt can we have by kneeling?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. This Supper is a banquet of love: our Lord calls the faithfull His friends, not ſervants, Ioh. 15.15. ſervants invited kneele not at their Maſters tables, much leſſe friends.</p>
+               <p n="2">2. Kneelers in receiving defraud them<g ref="char:EOLhyphen"/>ſolves of their grace here, and of their glory hereafter; which are promiſed in the word, ſitting, Mat. 8.11. &amp; 19.28. Luke 13.29. &amp;<pb n="12" facs="tcp:96134:9"/>22.30. Epheſ. 2.6. Rev. 3.21.</p>
+               <p>Q. <hi>The more humbly we receive, is it not ſo much the better for us?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Will-worſhip in our worſhipping of God, is alwayes rejected of God, Eſay 1.12. Col. 2. <hi>ult.</hi>
+               </p>
+               <p n="2">2. Kneelers in the act of receiving, vio<g ref="char:EOLhyphen"/>late the Inſtitution: for Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles did ſit as is manifeſt, Mat. 26.20. Mark. 14.18. Luk. 22.14. Ioh. 13.4.12.</p>
+               <p n="3">3. Kneelers tranſgreſſe Chriſts command, He commands us thus, Doe this in remem<g ref="char:EOLhyphen"/>brance of me. Now this command muſt bee extended unto every particular of the Inſtitu<g ref="char:EOLhyphen"/>tion, otherwiſe we have no rule whereby we can convince Heretiques, Papiſts, Pre<g ref="char:EOLhyphen"/>lats, Lutherans, in matters concerning this Sacrament.</p>
+               <p>Q. <hi>What doth all this teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. The fooliſhneſſe of Prieſts in the Ro<g ref="char:EOLhyphen"/>miſh and Lutheran Churches, who put the bread into the receivers mouthes, by which their mutuall communion is fruſtrated.</p>
+               <p n="2">2. I ſee, and ſorrow at the blindneſſe of thoſe will-worſhipping kneelers, Rev. <hi>ult.</hi> 18.</p>
+            </div>
+            <div type="section">
+               <pb n="13" facs="tcp:96134:9"/>
+               <head>Take.</head>
+               <p>Q. <hi>What are we to take here?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Heavens excellencie, the earths only good, even the Lord Jeſus Chriſt himſelfe, and all his heavenly graces, which are all here, not only freely offered, but alſo fully gi<g ref="char:EOLhyphen"/>ven to all worthy receivers: for as truly and really as I get that bread and that wine to be one fleſh with me; ſo likewiſe as really and as truly I get Chriſts body by faith (as his owne words prove, This is my body) to bee one ſpirit with mee, 1 Cor.
+6 17.</p>
+               <p>Q. <hi>But Chriſts humane body is in heaven; How then can I get him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By faith: for Chriſt dwelleth in our hearts by faith Epheſ. 3.17.</p>
+               <p>Q. <hi>But my bodily eyes ſee nothing in that Supper but bread and wine only: How then can I get Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſeeſt theſe, thou heareſt Chriſts words affirming of that bread, This is my bo<g ref="char:EOLhyphen"/>dy; and of that wine, This is my bloud; which of thoſe two beleeveſt thou, Chriſt or thy ſenſes? beleeve on the Lord Ieſus Chriſt, and thou getſt him, Ioh. 6.47.
+<pb n="14" facs="tcp:96134:10"/>compared with v. 54.</p>
+               <p>Q. <hi>Can I be infallibly ſure, that if I have ſaving faith to beleeve Chriſts words (This is my body, This is my bloud) that I ſhall get Chriſt himſelfe in this Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou may, and muſt be infallibly ſure of it; for Jeſus is the truth, Joh. 14.6. He can<g ref="char:EOLhyphen"/>not lie, Tit. 1.2. He cannot deny himſelfe, 2 Tim. 2.13. Heaven and earth ſhall paſſe a<g ref="char:EOLhyphen"/>way, but His words ſhall not paſſe away, Mat. 24.35. Mark. 13.31. Luk. 21.33.</p>
+               <p>Q. <hi>But I finde in my ſelfe a body of death, of corruption, of doubtings, how then dare I either take that bread, or think that I can get Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Chriſt reſolveth thee, Mark 9.23. If thou canſt beleeve, all things are poſſible to him that beleeveth.</p>
+               <p>Q. <hi>What doth that teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> Three things: 1. I muſt have ſaving faith that I may get Chriſt, ſeeing He is free<g ref="char:EOLhyphen"/>ly offered.</p>
+               <p n="2">2. I muſt take that bread and that wine; otherwiſe I both refuſe the means by which Chriſt is truly given in this Sacrament unto the faithfull: and alſo I refuſe Chriſt who now offereth Himſelfe unto me.</p>
+               <p n="3">3. And if I now take not Chriſt, He will
+<pb n="15" facs="tcp:96134:10"/>take vengeance of me in flaming fire, for not obſerving this part of the Goſpell (yea which is its greateſt part of it) 2 Theſ.
+1.7.8.</p>
+            </div>
+            <div type="section">
+               <head>Eate.</head>
+               <p>Q. <hi>What doth this import?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. By faithfull receiving of that bread, I get the true life giving bread, Chriſt, Joh. 6.47. compared with v. 50.</p>
+               <p n="2">2. That Chriſts fleſh is meat indeed to all faithfull hungring ſouls, Ioh. 6.55. And who<g ref="char:EOLhyphen"/>ſoever eateth of it ſhall live for ever, v. 58.</p>
+               <p n="3">3. As with my bodily mouth I muſt cat that bread (which is the ſigne) that my body may live: ſo with my ſoules mouth, faith, I muſt eat the thing ſignified (which is Chriſt) that my ſoule may live for ever, Ioh. 6.51.</p>
+               <p n="4">4. As my body cannot live ordinarily wanting bread which ſtrengthneth our heart, Pſ. 104.15. So, nor my ſoule, wanting Chriſt, who is the true bread that came downe from heaven, and giveth life unto the world, Ioh. 6.33.</p>
+               <p n="5">5. As bread is not food to my body, unleſſe I cat it: So, nor Chriſt is food to my ſoul, unleſſe I eat him by faith: for, no promiſe pro<g ref="char:EOLhyphen"/>fiteth unleſſe it be received by faith, Heb. 4.2.</p>
+               <p n="6">
+                  <pb n="16" facs="tcp:96134:11"/>6. The fearfull condition of ſuch who re<g ref="char:EOLhyphen"/>fuſe it, Prov. 1.24. &amp;c. much more who deſ<g ref="char:EOLhyphen"/>piſe it, Heb.
+10.28.29.</p>
+               <p n="7">7. The godleſſeneſſe of Papiſts, and Luthe<g ref="char:EOLhyphen"/>rans, who eat not their thin wafer, but keep it whole in their mouth.</p>
+               <p>Q. <hi>Did Judas eat that ſacrament all bread?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Weigh well Luk. 22.19. <hi>ad</hi> 24. and its probable that he did eat it.</p>
+               <p>Q. <hi>Did not our Saviour call Judas a Divell? Joh.</hi>
+6.70.</p>
+               <p>
+                  <hi>A.</hi> Yes: yet, he ate only the bread of the Lord; but not the bread the Lord.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I may not abſtaine from this S. Supper, though all communicants be not alike holy; for, their unholineſſe can not hurt me, if I be not acceſſary unto it, Deut. 24.16. Ier. 31.30. Ezek. 18.20. Gal.
+6.5.</p>
+            </div>
+            <div type="section">
+               <head>This is my body.</head>
+               <p>Q. <hi>Doe not thoſe words prove clearly, either tranſubſtantiation (as Papiſts affirme, that is, that that bread is changed into the body of Chriſt) or conſubſtantiation (that Chriſts body is in, with, under that bread) as Lutherans ſay?</hi>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:96134:11"/>
+                  <hi>A.</hi> There is no neceſſity that Chriſt ſhould be bodily preſent in this Sacrament: neither in reſpect of this Sacrament it ſelfe: nor yet of theſe words of Chriſt, This is my body, which is thus proved:</p>
+               <p n="1">1. Chriſts bodily preſence is not neceſſary, in reſpect of this Sacrament it ſelfe; for if we be truly faithfull, we may, and doe attaine unto this Sacraments foure ends, although Chriſts humane body be in heaven.</p>
+               <p n="2">2. This Sacraments firſt end is to remem<g ref="char:EOLhyphen"/>ber Chriſt, as his owne words doe witneſſe, (Doe this in remembrance of me:) now, this Sacrament it ſelfe puts all faithfull re<g ref="char:EOLhyphen"/>ceivers in remembrance of Chriſt: and His very words (Do this in remembrance of me) doe evidently ſhew Chriſts bodily abſence: for we remember abſent, not preſent friends.</p>
+               <p n="3">3. Its ſecond end is to ſhew Chriſts death till He come: This we can do, though His body be abſent. And (Till He come) de<g ref="char:EOLhyphen"/>monſtrates His bodily abſence.</p>
+               <p n="4">4. Its third end is to unite us unto Chriſt: This union is partly reall, and partly relative: our reall union with Chriſt is by faith; for Chriſt dwelleth in our hearts by faith, Epheſ. 3.17. And Chriſt lives in us, and we live in<pb n="18" facs="tcp:96134:12"/>Him by faith, Gal.
+2.20. And this is called our putting on the Lord Ieſus Chriſt, Rom. 13.
+<hi>ult.</hi> to be our wedding garment, Mat. 22.11. Our relative union with Chriſt is like that union between a man and his wife; for we are eſpouſed to Chriſt, 2 Cor. 11.2. and married to Him, Ier. 3.14. Hoſ. 2.19.20. A wife is fleſh of her husbands fleſh, and bone of his bone, Gen. 2.23. although they were ten thouſand miles aſunder.</p>
+               <p n="5">5. This Sacraments moſt principall end, is to ſeal the Covenant of Grace, for encreaſe of, and ſtrengthning our faith, Rom.
+4.11.</p>
+               <p>But by Papiſts Tranſubſtantiation, and Lu<g ref="char:EOLhyphen"/>therans Conſubſtantiation, our faith would be much weakned: for, which of theſe two are eaſieſt to be beleeved, that we get Chriſt by faith, which all S. Scriptures affirme (Ioh. 1 12. &amp; 3.16.18. &amp; 6.29.40.47. &amp;
+11.25.26.) Or that a bit of bread, and a cup of wine are tranſubſtantiated into the body and bloud of Chriſt; or conſubſtantiated with His body and bloud, which both want all warrant in S. Scripture; yea, which flatly contradicteth S. Scripture, Act. 3.21. Heb. 8.4.</p>
+               <p>In reſpect then of this Sacrament, Chriſts bodily preſence is not neceſſary.</p>
+               <p n="1">
+                  <pb n="19" facs="tcp:96134:12"/>Neither is Chriſts bodily preſence neceſſary in this Sacrament, in reſpect of Chriſts words, This is my body: 1. Becauſe it is frequent in al Sacraments both of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, to call the ſigne by the name of the thing ſignified.</p>
+               <p>As Circumciſion is called Gods Covenant, Gen. 17.10. yet v.
+11. it is but the ſigne of the Covenant.</p>
+               <p>The Lamb is called the Lords Paſſeover, Ex. 12.11. yet it was only the ſacrifice of the Lords Paſſeover, v. 27. and a ſigne, Ex.
+13.9.</p>
+               <p>Baptiſme is called the waſhing of rege<g ref="char:EOLhyphen"/>ration, Tit. 3.5. Yet it is but the ſigne of it; for Chriſts bloud only, can waſh us from our ſins, 1 Ioh. 1.7. Baptiſme is alſo ſaid to ſave us, 1 Pet. 3.21. Yet it is but a ſigne of Chriſts bloud which ſaveth us, Act. 4.12.</p>
+               <p>So, in this Sacrament, our Lord calleth that bread, His body, and that cup, His bloud: Yet, they are but the ſignes of His body and bloud.</p>
+               <p>There is then no neceſſity of Chriſts bo<g ref="char:EOLhyphen"/>dily preſence in this Sacrament, in reſpect of Chriſts words, This is my body.</p>
+               <p n="2">2. A ſecond reaſon againſt Tranſubſtantia<g ref="char:EOLhyphen"/>tion, &amp; Conſubſtantiation, is this, This change<pb n="20" facs="tcp:96134:13"/>is impoſſible; for it is againſt Chriſts glory; for he never appeared on earth, but in glory, Exod. 19.16.18. 1 King. 19.11.12. Mat. 17.2.</p>
+               <p>Object. <hi>Chriſt came in the forme of a ſer<g ref="char:EOLhyphen"/>vant? Philip.</hi> 2.17.</p>
+               <p>
+                  <hi>A.</hi> It is true: yet the Apoſtles behold His glory, the glory as of the only begotten of the Father, full of grace &amp; truth, Joh.
+1.14.</p>
+               <p n="3">3. This change would derogate from Gods honour: for, although Chriſts power can make ſuch a change; yet, Chriſt did ne<g ref="char:EOLhyphen"/>ver ſhew his power, but for advancing of Gods glory and honour: what honour can it bring unto the Lord, to change a bit of bread into Chriſts body? Chriſt can doe all things but theſe, which diſhonour God: Chriſt cannot lie, Tit. 1.2. nor deny himſelfe, 2 Tim. 2.13.</p>
+               <p n="4">4. This change were againſt Gods wiſ<g ref="char:EOLhyphen"/>dome; for the Lord neither did, nor doth any thing but for ſome good end: but in this change there can be no good end; ſeeing all the faithfull (wanting this change) can, and doe get Chriſt by faith, as hath been proved before, Ioh.
+1.12. &amp; 3.16. &amp;c.</p>
+               <p n="5">5. This change were againſt all our ſenſes: we heare Chriſt calling it bread, Mat. 26.26.<pb n="21" facs="tcp:96134:13"/>Mar. 14.22. Luk.
+22.19. The H. Ghoſt calleth it bread, 1 Cor. 10.16.17. &amp; 1 Cor. 11.23. Now in objects of ſenſe, our ſenſes are competent judges, according to Chriſts own argument, Luk. <hi>ult.</hi> 39. we ſee, we touch, we taſte, we ſmell bread.</p>
+               <p n="6">6. This change were againſt not only S. Scripture, Ioh.
+16 7.28. &amp; 17.11. Act. 3.21. Heb. 8.4. But alſo, this change were againſt naturall, yea heavenly reaſon, that Chriſts humane body ſhould be at one and the ſelfe ſame time in heaven, and on earth alſo; it would contradict, Mat. <hi>ult.</hi> 6. Mark. <hi>ult.</hi> 6. and Luk. <hi>ult.</hi>
+6.</p>
+               <p>Ob. <hi>D. Luther affirmeth, that there is no contradiction in this affirmation: Chriſts humane body is at one and the ſame time not on earth: as Joh.</hi> 17.11. <hi>Chriſt ſaith, I am no more in the world: then it is underſtood of a ſightly, moveable, and comprehenſible manner of being. But when it is ſaid, that Chriſts humane body is in the world (as in the bread and wine:) Then it is underſtood of the unſightly, immoveable, and incomprehenſible manner of beeing.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The H. Ghoſt taught no ſuch divinity in S. Scripture, That Chriſts humane body hath a manner of being belonging unto it, of invi<g ref="char:EOLhyphen"/>ſibility,<pb n="22" facs="tcp:96134:14"/>immoveability, and incomprehenſi<g ref="char:EOLhyphen"/>bility: Beſides its viſible, moveable, and com<g ref="char:EOLhyphen"/>prehenſible manner of being: Surely, Chriſt even after His reſurrection, demonſtrates the realty of His humane body, by its viſibility, and palpability, Luk <hi>ult.</hi> 39.</p>
+               <p n="7">7. This change would altogether over<g ref="char:EOLhyphen"/>throw the very beeing of this Sacrament; for in every Sacrament there muſt be both a ſigne, and the thing ſignified, that the elect may receive both.</p>
+               <p n="8">8. If ſuch a change be, it muſt either bee naturall, or miraculous: by nature it cannot be, that a little bread ſhould be made Chriſts body: nor is it done by a miracle; for all miracles were viſible: but this we ſee not; yea, all our ſenſes witneſſe the contrary.</p>
+               <p n="9">9. What Chriſt once rejected, as unneceſ<g ref="char:EOLhyphen"/>ſary unto ſalvation, He will not afterward admit of it as neceſſary unto ſalvation (for he cannot lie, Tit. 1.2. nor deny himſelfe, 2 Tim. 2.13.) but Chriſt hath rejected the carnall eating of his fleſh (which Tranſubſtantiation and Conſubſtantiation do maintain) as un<g ref="char:EOLhyphen"/>neceſſary to ſalvation, Joh. 6 63. He will not then admit it now as neceſſary.</p>
+               <p>Ob. <hi>Chriſt affirmeth, that unleſſe we eat His
+<pb n="23" facs="tcp:96134:14"/>fleſh, and drinke His bloud, we have no life (i.e. everlaſting) in us, Joh.</hi> 6.53.</p>
+               <p n="1">
+                  <hi>A.</hi> 1. To beleeve in Chriſt, and to eat his fleſh, and drinke his bloud, are one, and the ſame, Joh. 6.29.35.40.47. compared with 1.51.53,54,55.</p>
+               <p n="2">2. Theſe words litterally taken, would contradict Chriſts affirmation unto Mary Magdalen (who never taſted this Supper) Luk.
+7.48. and his aſſurance given to the theefe on the croſſe, Luk. 23.43. who never taſted this Sacrament.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That that Sacramentall bread, and wine, are not changed in their nature, (even after the Conſecration,) but in their uſe and end only.</p>
+            </div>
+            <div type="section">
+               <head>Which is broken for you.</head>
+               <p>Q. <hi>Why was Chriſts body broken for the elect?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For two maine cauſes:</p>
+               <p n="1">1. That although Chriſt be the fountaine of life, Pſ.
+36.9. Ioh. 6.58. as in Himſelf, Ioh. 10.18. So, alſo unto us, Act.
+17.25.28. Col. 3.4.</p>
+               <p>And although His fleſh be meat indeed, and<pb n="24" facs="tcp:96134:15"/>His bloud drink indeed, Ioh. 6.55.</p>
+               <p>Yet, unleſſe His body had been broken for the elect, He had neither been our life, nor our ſoules food: not our life, untill by death he had deſtroyed him who had the power of death, that is the divell, Heb.
+2.14.</p>
+               <p>Nor could Chriſt be our ſoules food untill His body was broken, Heb. 9.13,14,15,16.</p>
+               <p n="2">2. Unleſſe Chriſts body had been broken, He could not have procured remiſſion of ſin unto the elect; for, without ſhedding of bloud, there is no remiſſion of ſin, Heb. 9.22.</p>
+               <p>Nor could he have anſwered Gods truth, Gen. 2.17. becauſe that nature that ſinned, behoved to dye.</p>
+               <p>But now His body being broken, He is a fountaine opened for ſin, and for unclean<g ref="char:EOLhyphen"/>neſſe, Zach. 13.1.</p>
+               <p>Q. <hi>What doth this teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. To know the love of Chriſt, which paſſeth all knowledge, Eph. 3.19. that I may love him above all things, counting my life and all things but dung in compariſon of Chriſt, Philip.
+3.8.</p>
+               <p n="2">2. To bewaile my ſins, confeſſe them, and forſake them, Prov. 28.13. becauſe they occa<g ref="char:EOLhyphen"/>ſioned the breaking of Chriſts body, Eſa. 53.5.<pb n="25" facs="tcp:96134:15"/>and crucifie him afreſh, Heb. 6.6.</p>
+               <p n="3">3. Papiſts and Lutherans ſinfull folly, who keep their ſacramentall bread whole, unbro<g ref="char:EOLhyphen"/>ken in their mouth.</p>
+               <p>Ob. <hi>But they offer an unbloudy ſacrifice, as they ſay?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are meer deluders of their owne ſoules; for without ſhedding of bloud, there is no remiſſion of ſins, Heb.
+9.22.</p>
+               <p n="4">4. Seeing the Father ſpared not his own Son, but gave him freely for us all, Rom. 8.32. And that Chriſt ſpared not himſelfe, but laid downe His life willingly for all the elect, Ioh. 10.18. If I can get Chriſt in this Sacra<g ref="char:EOLhyphen"/>ment by faith. I get all whatſoever is good for me, Rom. 8 32.</p>
+            </div>
+            <div type="section">
+               <head>Doe this in remembrance of me.</head>
+               <p>Q. <hi>What doth the Holy Ghoſt aime at in thoſe words?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. This is the firſt end of this Sacra<g ref="char:EOLhyphen"/>ment; in which I am commanded to remem<g ref="char:EOLhyphen"/>ber continually all that Chriſt hath done, and ſuffered for me: which all, is ſummarily ſigni<g ref="char:EOLhyphen"/>fied in this Supper of the Lord.</p>
+               <p n="2">2. That whatſoever was at firſt done, and
+<pb n="26" facs="tcp:96134:16"/>ſaid in this Sacrament by our Lord and his Apoſtles, muſt be imitated (in diſcretion) ever afterwards.</p>
+               <p>Q. <hi>What doth this teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Never to forget my Lords love, leſt I be turned into hell, Pſ. 9.17.</p>
+               <p n="2">2. In receiving this Sacrament, to imitate the inſtitution according to my calling, be I Miniſter or hearer.</p>
+               <p n="3">3. The terrible condition of ſuch who re<g ref="char:EOLhyphen"/>fuſe or contemne this Sacrament: for they refuſe the means of their ſalvation, and re<g ref="char:EOLhyphen"/>member not Chriſt.</p>
+            </div>
+            <div type="section">
+               <head>V. 25. <hi>This cup is the New Teſtament in my bloud.</hi>
+               </head>
+               <p>Q. <hi>Why did Chriſt take wine to repreſent H<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> bloud in this Sacrament?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Becauſe wine reſembles Chriſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bloud, both in colour (being red) and in nam<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for its called the bloud of the grape, Gen. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.11.</p>
+               <p n="2">2. As it is not wine untill it be preſſed o<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the grape: So, nor Chriſts bloud did ſa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:96134:16"/>as actually, untillit was ſhed out of His body, Mat. 26.28. Heb. 9.14.</p>
+               <p n="3">3. As wine is to be given to the ſorrow<g ref="char:EOLhyphen"/>full and heavy hearted for comforting them, Prov. 31.6. So Chriſts bloud is the only ſalve which can comfort a ſin-ſick ſoule, which is ſenſible of its ſin and miſery, Act. 2.38,39. 1 Joh. 17.</p>
+               <p n="4">4. As wine maketh mans heart glad, Pſ. 104.15. So doth Chriſts bloud glad our ſouls, when by faith we are ſure that it was ſhed for us, 1 Pet. 1.18,19.</p>
+               <p>Q. <hi>What doth the Holy Ghoſt ſhew in theſe words (This cup is the New Teſtament in my bloud?)</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. As the Goſpel conſiſts of two main parts:</p>
+               <p n="1">1. Of all that Chriſt did, and ſuffered for all the elect.</p>
+               <p n="2">2. That Chriſt was choſen of the Father to be redeemer of all the elect, Pſ. 89.19.</p>
+               <p>That the Father did preordain Him, 1 Pet. 1.20.</p>
+               <p>Sent Him, Ioh. 3.17.</p>
+               <p>Sealed Him. Ioh. 6.27.</p>
+               <p>Sanctified Him, Ioh. 10.36.</p>
+               <p>And that Chriſt was freely given of the Fa<g ref="char:EOLhyphen"/>ther, Ioh. 3.16. And was made of the Father<pb n="28" facs="tcp:96134:17"/>unto all the truly faithfull, our wiſdome, righteouſneſſe, ſanctification and redemption, 1 Cor. 1.30. Eſ. 9.6. And that Chriſt gave Himſelfe freely for all the elect, Eph.
+5.2.</p>
+               <p>So, this Sacrament repreſenteth both theſe unto us.</p>
+               <p n="2">2. That this Sacrament is the ſeale of the Goſpel, Rom. 4.11. ſhewing all that to the eye (for it is a viſible word) which the Goſ<g ref="char:EOLhyphen"/>pel preſents to the eare: Even that Chriſt is freely given of the Father; and fully gives Himſelfe in this Sacrament unto all who will take Him by faith, as His own words prove, Take, eat, this is my body: Drinke, this is my bloud.</p>
+               <p>Q. <hi>How can I take Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Taking of Chriſt is an act of the will, which act by faith takes Chriſt to be my Pro<g ref="char:EOLhyphen"/>phet to teach me, Ioh. 15.15.</p>
+               <p>To be my Prieſt, whoſe ſacrifice of Him<g ref="char:EOLhyphen"/>ſelfe can only ſave me, Heb. 7.24,25.</p>
+               <p>And to be my King to apply ſalvation un<g ref="char:EOLhyphen"/>to me, Act. 4.12. And whoſe only laws con<g ref="char:EOLhyphen"/>cerning his worſhip, and my ſalvation, I muſt ſolemnly ſweare to obſerve, Pſ. 119.106.</p>
+               <p n="2">2. As I muſt take Chriſt by faith (which wanting, Gods beſt Ordinances profit not,<pb n="29" facs="tcp:96134:17"/>Heb. 4.2.) So I muſt take Him, to love Him above all things, Philip. 3.8. for nothing can pleaſe the Lord which is not done in love, 1 Cor. 3. <hi>paſſim.</hi>
+               </p>
+               <p n="3">3. In taking Chriſt I muſt reſolve, and con<g ref="char:EOLhyphen"/>ſtantly endeavour to my beſt poſſibility, to ſerve Him all the dayes of my life, Luk. 1.74,75.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Seeing Chriſt who is the full food of my ſoul) is given of the Father, &amp; freely gives himſelfe in this Supper, I muſt purge away all my native corruptions, Eſ. 1 16,17. and hunger for it, Mat. 5.6. before I receive it.</p>
+               <p n="2">2. I admire the helliſh obſtinacie of Pa<g ref="char:EOLhyphen"/>piſts, and Lutherans, who confeſſe theſe words (This cup, &amp;c.) to be a figurative ſpeech, (The cup for the wine) and yet will not allow ſo much, when the Lord calleth the bread His body.</p>
+               <p n="3">3. Papiſts perverſeneſſe, who give not the wine unto the inferior ſort of their receivers.</p>
+            </div>
+            <div type="section">
+               <head>Do this in remembrance of me.</head>
+               <p>Q. <hi>What is here to be markt?</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Two things<g ref="char:punc">▪</g> 1. Why is remembrance
+<pb n="30" facs="tcp:96134:18"/>again commanded. And ſecondly, what is it that we muſt remember?</p>
+               <p>Q. <hi>Why is remembrance again urged?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe of our natures totall corrupti<g ref="char:EOLhyphen"/>on, Gen.
+5.6. Rom. 7.24. forgetting what we ſhould remember; and remembring what we ſhould forget.</p>
+               <p>Q. <hi>How is that proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We are commanded to remember:</p>
+               <p n="1">1. The ſeventh day to keep it all holy, Ex. 20.8.</p>
+               <p n="2">2. To remember and not forget how we provoke the Lord to wrath, Deut. 9.7.</p>
+               <p n="3">3. To remember now our Creator in the dayes of our youth, Eccleſ. 12.1.</p>
+               <p n="4">4. To remember Lots wife, for looking backe to ſin, Luk.
+17.32.</p>
+               <p n="5">5. And in this Sacrament to remember Chriſt, which all wee too often forget.</p>
+               <p>Againe, we too much remember injuries, which we are commanded to forget, Mat. 6.15.</p>
+               <p>So, our memories are like ſtrainers, which keep the dregs, and ſuffer the beſt to paſſe thorow.</p>
+               <p>Q. <hi>Are not all thoſe from our memories weakneſſe?</hi>
+               </p>
+               <p>
+                  <pb n="31" facs="tcp:96134:18"/>
+                  <hi>A.</hi> No: but from our natures perverſe<g ref="char:EOLhyphen"/>neſſe; for the world, ſin, treſpaſſes, and va<g ref="char:EOLhyphen"/>nities are too much remembred, even of the faithfull, Rom. 7.15.</p>
+               <p>Q. <hi>What are we here to remember concerning Chriſt?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. We muſt remember what Chriſt hath done and ſuffered for us: And that His blood (which is my ſoulss ſpirituall drinke, and which only can cleanſe me from all ſin, 1 Joh. 1.7.) is fully and freely given here un<g ref="char:EOLhyphen"/>to all faithfull receivers.</p>
+               <p n="2">2. We muſt remember this Sacraments four ends.</p>
+               <p n="3">3. That Chriſts bloud was ſhed for mee, Mat.
+26.28.</p>
+               <p n="4">4. And to imitate the Inſtitution.</p>
+               <p>Q. <hi>What learneſt thou here?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. To bewaile my natures perverſity, and my memories frailty.</p>
+               <p n="2">2. To frequent this Sacrament often, that I may ſtill remember what my Lord hath un<g ref="char:EOLhyphen"/>dergone for me.</p>
+            </div>
+            <div type="section">
+               <pb n="32" facs="tcp:96134:19"/>
+               <head>V. 26. <hi>Yee doe ſhew the Lords death till hee come.</hi>
+               </head>
+               <p>Q. <hi>What is here propounded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Another end of this Sacrament: Chriſts death.</p>
+               <p>Q. <hi>What was Chriſts death?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It was the laſt act of His voluntary humiliation: in which He ſuffered the moſt extreame, moſt horrible paines which were due unto all the elect by reaſon of their ſins.</p>
+               <p>Q. <hi>Why is his death which is a paſſion) called an act?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe Chriſt did diſpoſe himſelfe willingly to undergoe it, Joh. 10.11.18.</p>
+               <p>Q. <hi>Why is Chriſts death called voluntary?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> None could enforce Him unto it, for He is omnipotent, Eſa. 96. Rev. 1.8 &amp; 19.16. His death was of power, Col. 2.15. not of in<g ref="char:EOLhyphen"/>firmity: for obſervance of His Fathers will, Mat. 26.39.42. for His love to the elect, Ioh. 10.15. for ſatisfying His Fathers juſtice by victory, 1 Cor. 15.54. and not ſuccumbing by miſery, Act. 2.24.</p>
+               <p>
+                  <pb n="33" facs="tcp:96134:19"/>Q. <hi>Did our Saviour indeed ſuffer ſuch ex<g ref="char:EOLhyphen"/>tream torments?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: for his ſufferings did equall all thoſe eternall torments which the whole e<g ref="char:EOLhyphen"/>lect ſhould have ſuffered, Eſa. 53. Pſal. 22. Ioh. 19.</p>
+               <p>Q. <hi>Chriſts ſufferings being ſo ſhort, how is that poſſible?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. The eternity of paine, the totall abſence of Gods favour, and ſuch other cir<g ref="char:EOLhyphen"/>cumſtances accompanying the eternall tor<g ref="char:EOLhyphen"/>ments of reprobates, are not of the eſſence, but are adjuncts of paine: And therefore Chriſt did not undergoe them.</p>
+               <p n="2">2. Our Lord had ſufficiency both of pow<g ref="char:EOLhyphen"/>er and dignity to overcome death, and all its circumſtances, Act. 2.24. 1 Cor. 15.54.57.</p>
+               <p n="3">3. Theſe limitations duly conſidered, Chriſts death was the very ſame; both in its kinde, for it was accurſed, Gal. 3.13. and in its meaſure; for he bare all the elects ſinnes, Eſa. 53.3,4,5 6. And His death did repreſent the very death of the damned fully, Mat. 27.46. Luk.
+22.44.</p>
+               <p>Q. <hi>What doth this teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Seeing that the Father ſpared not the Sonne of His love (who did no ſin, nei<g ref="char:EOLhyphen"/>ther<pb n="34" facs="tcp:96134:20"/>was guil found in His mouth, 1 Pet. 2.22.) He will not ſpare me if I continue in any one knowne ſin with delight, Iam. 2.10. compa<g ref="char:EOLhyphen"/>red with Deut. 27.26.</p>
+               <p n="2">2. That the Lord is of purer eyes then to behold evill, and cannot looke on iniquity, Habbac 1.13.</p>
+               <p n="3">3. I muſt communicate often, that I may ſhew alwayes the Lords death, and that ſinne live not in me, Rom. 6.3. compared with. v.
+6.</p>
+               <p n="4">4. If in this Sacrament I get Chriſt by faith, then his bloud cleanſeth mee from all ſin, 1 Ioh. 1.7.</p>
+            </div>
+            <div type="section">
+               <head>V. 27. <hi>Wherefore whoſoever ſhall eat this bread, and drinke this cup of the Lord unworthily; ſhall be guilty of the body and bloud of the Lord.</hi>
+               </head>
+               <p>Q. <hi>What is moſt remarkable in this verſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three things eſpecially.</p>
+               <p n="1">1. What that ſinne is, which maketh un<g ref="char:EOLhyphen"/>worthy receivers guilty of Chriſts body and bloud.</p>
+               <p n="2">
+                  <pb n="35" facs="tcp:96134:20"/>2. How that unworthineſſe maketh them guilty.</p>
+               <p n="3">3. And the ground or cauſe of that guilti<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>Q. <hi>What ſinne is that which maketh them guilty?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. It is ſome ſpeciall, either contempt, or light eſteem offered or done to the perſon, offices, ordinances, actions, ſufferings of our Saviour, or too ſome one of them.</p>
+               <p n="2">2. On to ſin againſt that greateſt worke of our redemption; and ſo to partake with the murderers of Chriſt.</p>
+               <p>Q. <hi>How is that proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To be guilty of bloud, is in ſome ſenſe or other to be a murderer: to be guilty there<g ref="char:EOLhyphen"/>fore of Chriſts bloud, is to be a murderer of Chriſt.</p>
+               <p>Q. <hi>How can I be a murderer of Chriſt, he being in heaven, and I on earth?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By continuing in known ſins with de<g ref="char:EOLhyphen"/>light thou crucifieſt the Son of God afreſh, and putteſt him to open ſhame, Heb.
+6.6. &amp; 10.29.</p>
+               <p>Ob. <hi>Thoſe two Scriptures ſtrike at ſuch who fall from faith, to infidelity.</hi>
+               </p>
+               <p>A. It is true: and yet, when faith purifi<g ref="char:EOLhyphen"/>eth<pb n="36" facs="tcp:96134:21"/>not thy heart, it is no ſaving faith, Act. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.9. And when faith produceth not good works, it is a dead faith, Iam. 2. <hi>ult.</hi>
+               </p>
+               <p>If then thou continueſt in known ſins with delight, thou art a murderer of Chriſt, and thy doome is denounced, Mat. 7.22,23. Luk. 13
+26.27.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p n="1">A. 1. Seeing Abels bloud was ſo heavy on Cain who murdered him, Gen. 4.19. O how intolerable will Chriſts bloud be upon the ſoules of ſuch, who murder Chriſt by their ſins delighted in, and unrepented! Rev. 6.15,16,17.</p>
+               <p n="2">2. I may not continue even in the leaſt knowne ſin, leſt I fall from faiths practice, and ſo from faiths profeſſion: Seeing that ſin is the tranſgreſſion of the Law, 1 Joh. 3.4. and that bringeth the curſe, Gal. 3.10.</p>
+               <p>Q. <hi>How doth that contempt or light eſteem, make receivers guilty?</hi>
+               </p>
+               <p>A. By eating this bread, and drinking this cup of the Lord unworthily.</p>
+               <p>Q. <hi>How doe receivers eat and drinke unwor<g ref="char:EOLhyphen"/>thily?</hi>
+               </p>
+               <p>A. In generall, it is to communicate wan<g ref="char:EOLhyphen"/>ting our wedding garment, Chriſt, Mat. 22.11.<pb n="37" facs="tcp:96134:21"/>for we muſt be cloathed with Chriſt, Rom. 13. <hi>ult.</hi> otherwaies we may not come to this marriage, Mat. 22.2. compared with v. 13.</p>
+               <p>Q. <hi>How can I put on Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Doe as Jacob did, bring the two kids, Gen. 27.9. That is, have faith (by which Chriſt lives in us, and we live in Him, Eph.
+3.17. Gal. 2.20.) and obſervance which de<g ref="char:EOLhyphen"/>monſtrates our faith to be ſound, Jam. 2.18.</p>
+               <p>Q. <hi>What are the more ſpeciall means which render unworthy receivers to be guilty?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Ignorance; in not knowing the Ver<g ref="char:EOLhyphen"/>tue, Worth, Uſe, and Ends of this Sacra<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Q. <hi>Wherein conſiſts its Vertue?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If thou communicate (having on thy wedding garment) all thy feares (occaſioned by ſenſe of thy ſin) will be quite removed.</p>
+               <p n="1">1. If thou complaineſt thus; Alas! how ſhall I get Chriſt to be my wedding gar<g ref="char:EOLhyphen"/>ment?</p>
+               <p>Chriſt anſwereth: Take, eat, this is my bo<g ref="char:EOLhyphen"/>dy; This is my bloud, drinke it by faith, and live for ever, Joh. 6.47. compared with v.
+51.</p>
+               <p n="2">2. My ſinnes multiply daily.</p>
+               <p>
+                  <hi>A.</hi> The Lords mercies are new every<pb n="38" facs="tcp:96134:22"/>morning, Lam. 3.23. God is the father of mercies, 2 Cor. 1.3. Rich in mercy, Eph. 2.4.</p>
+               <p n="3">3. I am dead in treſpaſſes and ſins.</p>
+               <p>
+                  <hi>A.</hi> Beleeve, and thou ſhalt live, Joh. 11.25.</p>
+               <p>But I cannot get repentance for my ſins.</p>
+               <p>
+                  <hi>A.</hi> Repentance that is ſound, is Gods work, 2 Tim.
+2.25. Seek, knock, and aske for it, and God will worke it, Mat. 7.7 8. Jam.
+1.5. Mat. 9.13.</p>
+               <p n="2">2. This Sacrament being rightly received, will reſolve all thy doubts.</p>
+               <p n="1">1. Will the Lord ſave ſuch a loſt ſinner as I am?</p>
+               <p>A. Chriſt came to ſeek, and to ſave that that is loſt, Luk 19.10. 1 Tim. 1.15. Pſ. 50.15. Mat. 11.28. Ioh. 6.37.</p>
+               <p n="3">3. It will cure all thy diſeaſes, Pſ. 103.3. and ſalves all thy ſin-ſores, Eſay 53.5.</p>
+               <p n="4">4. In this Supper thou getſt Chriſt himſelf, who is all, and in all, Col. 3.11.</p>
+               <p>Q. <hi>Wherein ſtands the worth of this Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By worthy receiving, we get Chriſt, as his owne words doe witneſſe: And in getting Chriſt, we get the Father, and the Holy Ghoſt: for theſe three are one, 1 Ioh. 5.7</p>
+               <p>
+                  <pb n="39" facs="tcp:96134:22"/>Q. <hi>Wherein conſiſts the uſe of this Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That bread, and that wine, are taken from their common uſe (which is to ſtreng<g ref="char:EOLhyphen"/>then, and glad mans heart, Pſ. 104.15.) To ſignifie, ſeal, and really to give unto all faith<g ref="char:EOLhyphen"/>full receivers Chriſts body and bloud to bee meat indeed, and drinke indeed to their ſoules, Ioh.
+6.55. And ſo Chriſt dwelleth in us, and we in him, v. 56.</p>
+               <p>Q. <hi>What hurt will it bring, though we bee ignorant of this Sacraments foure ends?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Great every way, both to the Paſtor and people, 2 Theſſ. 1.7,8,9. For,</p>
+               <p n="1">1. Miniſters muſt be diligent to know the ſtate of their flocks, and to looke well to their herds, Prov. 27.23.</p>
+               <p>They muſt not be blinde, but ſeeing; nor ignorant, but muſt know; nor dumbe, but muſt ſpeak; nor ſleeping, but muſt watch; nor greedy of another mans goods, but con<g ref="char:EOLhyphen"/>tented with the Lords allowance; nor drun<g ref="char:EOLhyphen"/>ken, but ſober, Eſa. 56.10. &amp;c.</p>
+               <p>Nor daubers with untemperate morter, promiſing peace where there is no peace, Ezek. 13.10. They muſt warne the wicked to forſake his way, otherwiſe the bloud of<pb n="38" facs="tcp:96134:23"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="39" facs="tcp:96134:23"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="40" facs="tcp:96134:24"/>the wicked will be required at the Miniſters hand, Ezek. 33.8.</p>
+               <p>They muſt feed the flock of God, 1 Pet. 5.2. And watch for their ſoules, for which they muſt give an account, Heb. ult. 17.</p>
+               <p n="2">2. The people likewiſe periſh for lacke of knowledge, Hoſ. 4.6. when they are not taught to know this Sacraments foure ends.</p>
+               <p n="1">1. To imitate the inſtitution, in remem<g ref="char:EOLhyphen"/>brance of Chriſt.</p>
+               <p n="2">2. To ſhew Chriſts death till he come.</p>
+               <p n="3">3. That this Sacrament unites true recei<g ref="char:EOLhyphen"/>vers unto Chriſt.</p>
+               <p n="4">4. And that it ſeals the covenant of Grace to all worthy receivers, Rom. 4.11.</p>
+               <p>Q. <hi>What doth thoſe things teach thee?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. The fearfull condition of ignorant communicants; for they are murderers of Chriſt.</p>
+               <p n="2">2. And the terrible ſtate of thoſe Miniſters who take no care to catechiſe their flock, Mat. 15.14.</p>
+               <p>Q. <hi>We have heard that a light eſteem or con<g ref="char:EOLhyphen"/>tempt of Chriſt: The want of our wedding gar<g ref="char:EOLhyphen"/>ment; and ignorance of the vertue, worth, uſe, and of the ends of this Sacrament, maketh unworthy receivers to be murderers both of themſelves, and<pb n="41" facs="tcp:96134:24"/>of Chriſt. Now what other ſinnes doe worke the ſame effects?</hi>
+               </p>
+               <p n="4">4. <hi>A.</hi> Want of faith, Heb. 11.6. when re<g ref="char:EOLhyphen"/>ceivers beleeve not fully that Chriſt giveth himſelfe effectually to all faithfull communi<g ref="char:EOLhyphen"/>cants in this Supper: nor that themſelves can by faith get Chriſt in it; and yet dare re<g ref="char:EOLhyphen"/>ceive the ſignes, that bread, and that wine; by which they ſinne dangerouſly, Rom. 14. ult.</p>
+               <p n="5">5. Superſtition, beleeving Papiſt, and Lu<g ref="char:EOLhyphen"/>theran-like, that they eat in this Supper the humane body of Chriſt, with their bodily mouth: and yet, we can only eat him with our ſoules mouth, faith: for, to beleeve in Chriſt, and to eat his fleſh, is one, Iob. 6.47. compared with v. 51.</p>
+               <p n="6">6. Senſuality; when cloyed with worldly cares, with the deceitfulneſſe of riches, and pleaſures of this life, Luk. 8.14. They hunger not for Chriſt. Such ſhall never be filled, Mat. 5.6.</p>
+               <p n="7">7. Carnall ſecurity; when receivers neither
+<pb n="42" facs="tcp:96134:25"/>expect good in worthy receiving; nor evill, by unworthy: Such are like Laodicea, Rev. 3.15.16.</p>
+               <p n="8">8. Preſumption: fooliſhly beleeving th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they ſhall ſpeed as well as the beſt, thought they lacke preparation, and ſanctification; yea, and their wedding garment: let ſuch read and tremble, Mat. 22.11,12,13.</p>
+               <p n="9">9. Want of true love: which brancheth it ſelfe in two ſeverall particulars.</p>
+               <p n="1">1. When men raſhly ſuſpect other mens intentions, or actions without ſufficient war<g ref="char:EOLhyphen"/>rant. This is deſcribed Eſay 65.5. Stand by thy ſelfe; come not neare unto me, for I at holier then thou. This is prohibited Mat. 7.1. Iudge not that ye be not judged. Threatned v. 2. with damnation, Luk. 3.37.</p>
+               <p>Such raſh judgers are hypocrites, Mat. 7.5</p>
+               <p n="2">2. Who will not forgive men their treſ<g ref="char:EOLhyphen"/>paſſes; and ſo, the Lord will not forgive their treſpaſſes, Mat. 6.15. Theſe are implacable unmercifull, Rom. 1.31. Such ſhall have judgement without mercy, Iam. 2.13.</p>
+               <p n="10">10. Temporiſing: receiving for faſhions ſake<g ref="char:punc">▪</g>
+                  <pb n="43" facs="tcp:96134:25"/>Such are hypocrites, 2 Tim. 3.5. Thoſe like<g ref="char:EOLhyphen"/>wiſe who come to this Supper more for fear of the Magiſtrate, then for fear of the Lord. This is helliſh feare, even the ſpirit of bond<g ref="char:EOLhyphen"/>age, Rom. 8.15.</p>
+               <p n="11">11. Inconſideration: when receivers thoughts are eſtranged from the action; and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re intent upon the world, ſin, luſt, and ſuch like. Such cannot pleaſe God, Rom. 8.8.</p>
+               <p n="12">12. Prophaneneſſe: ſcorning the action, in not beleeving Chriſts truth: This is my body; This is my bloud: or ſcornfully refuſing to receive, though Chriſt commands, To take, eat, drinke, do this.</p>
+               <p n="13">13. Damnable injuſtice, in adding, altering, or ſubſtracting any neceſſary thing of the in<g ref="char:EOLhyphen"/>ſtitution. All plagues are denounced againſt ſuch, Rev. 22.18 19.</p>
+               <p>Whoſoever is guilty of all, or of any of theſe horrible ſins, are murderers of Chriſt.</p>
+               <p>Q. <hi>What is the ground, or cauſe that makes unworthy receivers guilty of Chriſts body and bloud?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. They contemne Chriſts authority,
+<pb n="44" facs="tcp:96134:26"/>and are therefore accurſed, Eſa. 45.9.</p>
+               <p n="2">2. They deſpiſe Chriſt himſelfe, who gives himſelfe freely, and fully to all faithfull receivers.</p>
+               <p n="3">3. They deſpiſe his merits, Heb. 9.14.15.</p>
+               <p n="4">4. They deſpiſe Chriſts three offices.</p>
+               <p>His Propheticall office, Luk. 10.16.</p>
+               <p>His Prieſtly office, Heb. 10.28,29.</p>
+               <p>And they deſpiſe his Kingly office; for they will not have Chriſt to raigne over them, Luk. 19 14.27.</p>
+               <p n="5">5. They deſpiſe Chriſts moſt meritorious worke of mans redemption, Rom. 5.8,9,10,11.</p>
+               <p n="6">6. They contemne Chriſts love, who lo<g ref="char:EOLhyphen"/>ved us, and waſhed us from our ſins in his own blond, Rev. 1.5. Heb. 10.28,29.</p>
+               <p n="7">7. And they deſpiſe the whole Covenant of Grace, whereof this is a ſeale, Rom. 4.11.</p>
+               <p>Q. <hi>Many received who were ignorant of theſe things; and yet they live and proſper: How comes that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The times of that ignorance God wincked at; but now commands all men e<g ref="char:EOLhyphen"/>very where to repent, Act. 17.30.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p n="1">
+                  <pb n="45" facs="tcp:96134:26"/>
+                  <hi>A.</hi> 1. To ſeek, knock, and aske without ceaſing, that I may be cloathed with Chriſt my wedding garment; that I be not one who murders Chriſt.</p>
+               <p n="2">2. I muſt zealouſly and inceſſantly beg in the name and merits of Chriſt, that the Lord will cleanſe my ſoule, and make it clean from all theſe, and all other ſins, as is covenanted, Ezek.
+36.25.</p>
+            </div>
+            <div type="section">
+               <head>V. 28. <hi>But let a man examine himſelfe, and ſo let him eat of that bread, and drinke of that cup.</hi>
+               </head>
+               <p>Q. <hi>What is here to be conſidered?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Here are the ordinary means to ſave us from being murderers of Chriſt: And theſe are, our examination of our ſelves.</p>
+               <p>Q. <hi>What muſt we doe in examining our ſelves aright?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Right examination requireth, that we caſt totally out of our thoughts all other cares: for true examination muſt take us wholly up. We muſt (as in prayer) ſhut our<pb n="46" facs="tcp:96134:27"/>doore, Matth. 6.5.</p>
+               <p n="2">2. We muſt examine our ſelves in ſixe things eſpecially.</p>
+               <p n="1">1. Of our knowledge, what we are to re<g ref="char:EOLhyphen"/>ceive in this Supper.</p>
+               <p n="2">2. Of our deſire of this Sacrament, ſo knowne.</p>
+               <p n="3">3. Of our faith, by which only we can obtaine our deſire.</p>
+               <p n="4">4. Of our love toward God, and our neighbour, that we may be ſure our faith is ſound.</p>
+               <p n="5">5. Of our repentance, which proveth out love to be pure.</p>
+               <p n="6">6. And of our obſervance paſt, preſent, and its purpoſe for the future, which demon<g ref="char:EOLhyphen"/>ſtrates our repentance to be perfect.</p>
+               <div n="1" type="question">
+                  <head>Queſt. 1.</head>
+                  <p>Q. <hi>What muſt I know is here to be received?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That as truly as I get bread and wine which are my bodies food: So truly I get Chriſts body and bloud by faith, which are my ſoules only food, Joh. 6.47. compared with v. 55.</p>
+               </div>
+               <div n="2" type="question">
+                  <head>Queſt. 2.</head>
+                  <p>Q. <hi>How ſhall I knew my deſires to be reall?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Counts thou all things but dung in
+<pb n="47" facs="tcp:96134:27"/>compariſon of Chriſt? Philip. 3.8. Try if de<g ref="char:EOLhyphen"/>ſire, which is thy ſoules appetite, doth hun<g ref="char:EOLhyphen"/>ger for Chriſt, Mat. 5.6.</p>
+               </div>
+               <div n="3" type="question">
+                  <head>Queſt. 3.</head>
+                  <p>Q. <hi>What ſhall I examine my ſelfe concerning my faith?</hi>
+                  </p>
+                  <p n="1">
+                     <hi>A.</hi> 1. That thy faith be not an hiſtoricall, temporary, or a faith of miracles. None of thoſe alone, no nor altogether can appre<g ref="char:EOLhyphen"/>hend Chriſt truly, Jam. 2.19.</p>
+                  <p n="2">2. That it be a juſtifying faith, which, though it be but one ſimple grace; yet it is of a two fold conſideration: firſt, as it is our ſpirituall life, by which Chriſt lives in us, and we in him, Eph.
+3.17. Gal. 2.20.</p>
+                  <p n="2">2. As faith is a vertue, and our duty to<g ref="char:EOLhyphen"/>wards God: and ſo, faith is an act flowing from that our ſpirituall life, by which I be<g ref="char:EOLhyphen"/>leeve all whatſoever the Lord hath propoun<g ref="char:EOLhyphen"/>ded in his S. Scripture, Act.
+24.14.</p>
+                  <p>Q. <hi>What is faith, as it is our ſpirituall life?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A reſting of our hearts on God, as on the only author of our life and ſalvation; that is, that in God we are freed from all evill, and are aſſured of all that is good, Eſa. 10.20. Pſ. 37.5. Act.
+4.12. Pſ. 84.11. Thirdly, try thy faith in ſix things.</p>
+                  <p n="1">
+                     <pb n="48" facs="tcp:96134:28"/>1. In its author, who works it.</p>
+                  <p n="2">2. In the means by which it is wrought ordinarily.</p>
+                  <p n="3">3. Concerning its object.</p>
+                  <p n="4">4. In its effects.</p>
+                  <p n="5">5. In its ground.</p>
+                  <p n="6">6. And concerning its end.</p>
+                  <p>Q. <hi>Muſt I neceſſarily know all theſe?</hi>
+                  </p>
+                  <p n="1">
+                     <hi>A.</hi> 1. Yes verily: for whatſoever is not of faith, is ſin, Rom. 14. ult.</p>
+                  <p n="2">2. Without faith it is impoſſible to pleaſe God, Heb. 11.6.</p>
+                  <p n="3">3. Gods beſt ordinances availe not to us, unleſſe we receive them by faith, Heb. 4.2.</p>
+                  <p>Q. <hi>Who works faith in us?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Jeſus is the author and finiſher of our faith, Heb. 12.2. And the Holy Ghoſt wor<g ref="char:EOLhyphen"/>keth faith in us, 1 Cor. 12.9. for the Father through the Son, by the Holy Ghoſt worketh all works which are wrought on the crea<g ref="char:EOLhyphen"/>ture.</p>
+                  <p>Q. <hi>By what means is faith wrought in us?</hi>
+                  </p>
+                  <p n="1">
+                     <hi>A.</hi> 1. By hearing of Gods word, which is a religious receiving of Gods revealed will, by whatſoever way we can know it.</p>
+                  <p n="2">2. Moſt ordinarily by hearing the word preached, Rom.
+10.14.17.</p>
+                  <p>
+                     <pb n="49" facs="tcp:96134:28"/>Q. <hi>Who is the adequate object of our faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Chriſt, as he is our redeemer, is the immediate object of our faith: And God (as by his grace we live well, 1 Tim. 4.10.) is its ultimate object: for we live to God through Chriſt, Rom. 6.11. We have hope through Chriſt to Godward, 2 Cor. 3.4. And we be<g ref="char:EOLhyphen"/>leeve in God through Chriſt, 1 Pet. 1.21.</p>
+                  <p>Q. <hi>Which are thoſe effects of faith, by which I muſt examine my ſelfe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The firſt act of faith is to beleeve: doſt thou beleeve?</p>
+                  <p n="1">1. That there is but one God, Mark. 12.32.</p>
+                  <p n="2">2. That this God who is one in eſſence, is diſtinguiſhed into three Perſons, the Father, Son, and Holy Ghoſt, 1 Joh. 5.7.</p>
+                  <p n="3">3. That the Lord Chriſt is equall with the Father in all things, Philip. 2.6. ſave only as he is Mediator, Joh. 14.28.</p>
+                  <p n="4">4. That creation is aſcribed to the Father, redemption to the Son, and ſanctification to the Holy Ghoſt (as it is in the Creed?) And yet, doſt thou beleeve that all the actions of all the three Perſons of the Trinity (on, and in the creatures) are common to them all, and proper to every perſon? Joh. 5.17.19. &amp; 16.13.14.</p>
+                  <p n="2">
+                     <pb n="50" facs="tcp:96134:29"/>2. Doſt thou, by faith, role thy ſelfe, and thy waies on Iehovah? Pſ. 37.5. Set up thy hearts reſt on holy Iehovah, Eſa. 10.20. And giveſt thou thy ſelfe over unto God? 2 Cor. 8.5. Iob. 13.15.</p>
+                  <p n="3">3. Does faith purifie the heart from the love of all ſin? Act. 15.9.</p>
+                  <p n="4">4. And examine thy ſelfe, if thy faith worketh by love? Gal. 5.6.</p>
+                  <p>Q. <hi>What is that ground on which juſtifying faith is built?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All the promiſes, which are of mercy, in S. Scripture: for thoſe only are properly the ſure foundation on which our faith is built: becauſe thoſe only propound Chriſt unto us, Ioh. 5.39. Rom. 10.4.</p>
+                  <p>Q. <hi>What end doth faith aime at?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Moſt principally at the advancing of Gods glory,
+1 Cor. 10.31. And ſecondarily, the ſalvation of our ſoules, 1 Pet.
+1.9.</p>
+               </div>
+               <div n="4" type="question">
+                  <head>Queſt. 4.</head>
+                  <p>Q. <hi>Wherein muſt I examine my ſelfe concer<g ref="char:EOLhyphen"/>ning love?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> If thou loveſt God above all things, Mat. 22.37. and thy neighbour as thy ſelfe, v. 39.</p>
+                  <p>Q. <hi>How ſhall I know that I love God above all things?</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="51" facs="tcp:96134:29"/>
+                     <hi>A</hi> 1. By thy burning deſire to be united with God through Chriſt, Pſ. 42.1,2,3. which is wrought by faith, Gal. 2.20. called the love of union.</p>
+                  <p n="2">2. By that joy unſpeakable, and full of glory, which ariſeth from that union, 1 Pet. 1.8. This is called the love of well-pleaſed<g ref="char:EOLhyphen"/>neſſe.</p>
+                  <p n="3">3. By thy zeale to advance Gods glory in all things, Pſ. 69.9. &amp; 119.139. This is the love of benevolence.</p>
+                  <p>Q. <hi>How can I love God above all things?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> When both in affection, and all effects, thou loves the Lord, preferring him above all things in heaven and earth, Mark.
+12.33.</p>
+                  <p>Q. <hi>How ſhall I know that I love my neighbour as my ſelfe?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> All things whatſoever ye would that men ſhould doe to you, doe yee even ſo to them, Mat. 7.12.</p>
+               </div>
+               <div n="5" type="question">
+                  <head>Queſt. 5.</head>
+                  <p>Q. <hi>What is true repentance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A godly forrow for offending God, with a continued totall change of our will, willing nothing but Gods glory, and our ſal<g ref="char:EOLhyphen"/>vation, 2 Cor. 7.10.11.</p>
+                  <p>Q. <hi>How ſhall I know that my repentance is ſound?</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="52" facs="tcp:96134:30"/>
+                     <hi>A.</hi> 1. By ſorrowing for ſin as it offends the Lord, more then for fear of any puniſh<g ref="char:EOLhyphen"/>ment, Pſal
+51.4.</p>
+                  <p n="2">2. By confeſſing and forſaking all ſinne, Prov.
+28.13.</p>
+                  <p>Q. <hi>How can I repent of my unknown ſins?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Who repent diſtinctly of every known ſin, doth virtually repent their unknown er<g ref="char:EOLhyphen"/>rours, Pſ. 19.13.</p>
+                  <p>Q. <hi>Muſt I repent often of all my ſins?</hi>
+                  </p>
+                  <p n="1">
+                     <hi>A.</hi> 1. Our by-paſt ſins ſhould never bee forgotten, Deut. 9.7. Pſ. 25.7. &amp; 51.3.</p>
+                  <p n="2">2. Becauſe we ſin daily, Prov. 24.16. wee muſt repent daily, Luk. 13.3.5. for one ſinne unrepented (if it be known) makes us, as if we had never repented of any, Jam. 2.10.</p>
+                  <p n="3">3. I muſt repent greatly, if my ſinnes be great; as did David, Job, St. Paul, St. Peter, and Mary Magdalen.</p>
+               </div>
+               <div n="6" type="question">
+                  <head>Queſt. 6.</head>
+                  <p>Q. <hi>What is obſervance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Obſervance is that by which Gods will is performed in ſubjection for Gods glory.</p>
+                  <p>Q. <hi>Why is that</hi> (in ſubjection) <hi>added?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe obſervance applyeth my will to fulfill Gods known will willingly, in re<g ref="char:EOLhyphen"/>ſpect<pb n="53" facs="tcp:96134:30"/>of his abſolute authority over me, Rom. 9.21.</p>
+                  <p>Q. <hi>Doth not obedience the ſame?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No: for obſervance conſiſteth as in the externall performance of Gods knowne will: So, or more in the internall intent of a willingly ſubjected will, unto Gods revealed will in all things. 1 Sam.
+15.22. 2 Theſſ. 1.8.</p>
+                  <p>But obedience reſpecteth the externall act, which it often performeth, even when the internall intention of the will is wan<g ref="char:EOLhyphen"/>ting: As in Galley-ſlaves, and ſleepy ſervants.</p>
+                  <p>Q. <hi>How ſhall I know that my obſervance is ſound?</hi>
+                  </p>
+                  <p n="1">
+                     <hi>A.</hi> 1. By thy eſteem of Gods revealed wil, more then of all, or any mans commands, Act. 4 19. This is a ſure ſigne; for the life of obſervance is in our lovingly ſubjecting our will unto Gods revealed will in all things. Reprobates nill they, will they, muſt obey; but they doe not obſerve, Rom. 8.7.</p>
+                  <p n="2">2. By willingly ſubjecting thy will unto Gods knowne will, even when it ſeemeth contrary to reaſon. Ioh. 13.18.</p>
+                  <p n="3">3. By loving theſe parts of S. Scripture moſt, which moſt exactly teach obſervance, Pſ. 119 33. Act. 9.6.</p>
+                  <p n="4">
+                     <pb n="54" facs="tcp:96134:31"/>4. By fearing to offend God, Prov.
+28.14. and by flying from all occaſions of offence, Heb. 12. ult.</p>
+                  <p n="5">5. By reſolution to perſevere in obſer<g ref="char:EOLhyphen"/>vance, though thou loſe life and the world, Act. 20.24.</p>
+                  <p n="6">6. By conſtant uſe of all means which can incline thy will unto a willing ſubjection, Ioſh. 1.8. Pſ. 1.2. 1 Cor. 9. ult. Ioh. 5.39.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>And ſo let him eat of that bread, and drinke of that cup.</head>
+               <p>Q. <hi>What is meant by thoſe words?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Being fitted by examination, as the word, So, imports; we may without danger of bloud-guiltineſſe, v. 27. and of damnation, v. 29. communicate to our everlaſting com<g ref="char:EOLhyphen"/>fort: As thoſe officers ſaid, Ioh. 7.46. Never man ſpake like this man. So I avouch, Tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> never was bread, like this bread: Nor cup<g ref="char:punc">▪</g> like this cup.</p>
+               <p>Q. <hi>But how ſhall I be aſſured that I am fitte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for receiving, even after I have examined my ſel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The examination of thy ſelfe muſt b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> continued till thou ſinde thy ſelfe fitted.</p>
+               <p>
+                  <pb n="55" facs="tcp:96134:31"/>Object. <hi>The H. Ghoſt commands not that continued examination.</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. The word, So, demonſtrates the contrary: for, So, is not an adverbe of time, but a note of qualification.</p>
+               <p n="2">2. The H. Ghoſt commands us, To examine our ſelves till we be prepared, So to eat of that bread and drinke of that cup; which cer<g ref="char:EOLhyphen"/>tainly denoteth continuation.</p>
+               <p n="3">3. He hath never examined himſelfe ex<g ref="char:EOLhyphen"/>actly, who continueth not his examination until he find theſe ſix ſpirituall graces (know<g ref="char:EOLhyphen"/>ledge, deſire, faith, love, repentance, and ob<g ref="char:EOLhyphen"/>ſervance) in ſome good meaſure wrought in him; which all, he may obtaine by zealous prayer, according to Chriſts promiſe, Mat. 7.7,8. Iam. 1.5.</p>
+               <p n="4">4. We muſt examine our ſelves, becauſe hypocrites may delude the moſt exact of all mortall examiners.</p>
+               <p n="5">5. Our hearts which are deceitfull above all things, deſperately wicked, Ier. 17.9. can only be examined by God, v. 10. and by our ſelves, 1 Cor. 2.11.</p>
+               <p>Q. <hi>Seeing that we are commanded to examine our ſelves: why ſhould our Miniſter examine us?</hi>
+               </p>
+               <p n="1">
+                  <pb n="56" facs="tcp:96134:32"/>
+                  <hi>A.</hi> 1. Becauſe we are commanded to do good to our ſelves, may none other do us good?</p>
+               <p n="2">2. Faithfull Miniſters muſt (of all callings) be moſt conſcientiouſly diligent to know the eſtate of their flocks, and to look well to their herds, Prov. 27.23.</p>
+               <p>As the ſalt of the earth, Mat. 5.13. they muſt ſeaſon their hearers.</p>
+               <p>As lights of this world, Mat. 5.14. they muſt ſhew in doctrine the true light; and in converſation practice it, Mat. 5 16.</p>
+               <p>They muſt open their hearers eyes, con<g ref="char:EOLhyphen"/>vert them from darkneſſe to light, and from the power of Satan unto God, Act. 26.18.</p>
+               <p>They muſt firſt feed their ſlocks with milk, and thereafter with meat, 1 Cor. 3.2. 1 Pet. 5.1.</p>
+               <p>They muſt be ſtewards of the myſteries of God, 1 Cor.
+4.1.</p>
+               <p>Miniſters muſt watch for their peoples ſoules, and give account for them, Heb. ult. 17.</p>
+               <p>All the premiſes prove, that faithfull Mi<g ref="char:EOLhyphen"/>niſters muſt examine their people.</p>
+               <p>We are commanded to give an anſwer to every man that asketh us a reaſon of the hope that is in us, with meekneſſe, and fear; and
+<pb n="57" facs="tcp:96134:32"/>we muſt be ready to doe it, 1 Pet. 3.17.</p>
+               <p>Who obſtinately refuſe to be examined by their Miniſter, run hazard of condemnation: Seeing light is come into the world, and ſuch love darkneſſe rather then light, Iohn 3.19.</p>
+               <p>Such, are doers of evill, haters of the light, and dare not come to the light, leſt their deeds ſhould be reproved, Ioh. 3.20.</p>
+               <p>Such, who will not be examined by their Miniſter, are deſpiſers both of Chriſt, and of God, Luk. 10.16.</p>
+               <p>Q. <hi>What learneſt thou hence?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. The H. Ghoſt tyeth this examinati<g ref="char:EOLhyphen"/>on, and our receiving together: I muſt not then ſeparate them, Mark. 10.9.</p>
+               <p n="2">2. The greater that the danger is in un<g ref="char:EOLhyphen"/>worthy receiving, we ſhould be the more ſtrict in our examining of our ſelves, and in our being examined by our Miniſter.</p>
+               <p n="3">3. All Chriſtians (occaſion being fully offered) muſt receive, or be deſpiſers of Chriſt, and of God: all then who would bee Chriſtians muſt both examin themſelves, and be examined by their Miniſter, leſt they deſ<g ref="char:EOLhyphen"/>piſe Chriſt and God.</p>
+               <p n="4">4. Who will not examin themſelves, and
+<pb n="58" facs="tcp:96134:33"/>be examined by their Miniſter, they hide their ſin, and ſo ſhall never proſper, Prov. 28.13.</p>
+               <p n="5">5. Who will not examine themſelves con<g ref="char:EOLhyphen"/>cerning their ſins, and wants, cannot be helpt by receiving. Iudas the traytor, Ioh. 13.17. and Simon Magus, Act. 8.20. are in<g ref="char:EOLhyphen"/>ſtances.</p>
+               <div type="question">
+                  <head>Queſt.</head>
+                  <p>Q. <hi>What muſt I doe when I come to the table to communicate?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> We muſt come with filiall feare; ſet<g ref="char:EOLhyphen"/>ting our faith a worke in meditation of foure things:</p>
+                  <p n="1">1. When we ſee that bread broken, and wine powred out; we muſt call to mind, That our Saviour was wounded for our tranſgreſ<g ref="char:EOLhyphen"/>ſions, and broken for our iniquities, Eſa. 53.5.</p>
+                  <p n="2">2. As that bread, and that wine are given unto us: So, God the Father gave his Son, Rom. 8.32. And Chriſt gives himſelfe unto us in this Sacrament, 1 Cor. 11.24,25.</p>
+                  <p n="3">3. We muſt beleeve without doubting, that as that bread eaten, and that wine drun<g ref="char:EOLhyphen"/>ken of us, become one ſubſtance with us: So Chriſt, and all the faithfull receivers are made one, Ioh. 17.21. That Chriſt is our<pb n="59" facs="tcp:96134:33"/>bead, Eph. 5.23. That we are members of his body, of his fleſh, and of his bones, Eph. 5.30. And that we are every one members one of another, Rom. 12.5.</p>
+                  <p n="4">4. As we take that bread, and that wine with our bodily hand: So with my ſoules hand, faith, we muſt take Chriſt, Ioh.
+6.29.35.40.47. compared with v. 51.54.56.58.</p>
+               </div>
+               <div type="question">
+                  <head>Queſt.</head>
+                  <p>Q. <hi>What muſt I doe after I have received?</hi>
+                  </p>
+                  <p n="1">
+                     <hi>A.</hi> 1. Render all poſſible praiſe unto God for that his ineſtimable benefit, Pſ. 103.2. 1 Theſſ. 5.18.</p>
+                  <p n="2">2. If we have ſped well, and gotten Chriſt, we muſt be the more thankfull, and become new creatures, 2 Cor. 5.17.</p>
+                  <p>But if we finde not our ſelves to have ſped well, we muſt notwithſtanding praiſe the Lord, and not be weary in well doing; for in due ſeaſon we ſhall reap, if we faint not, Gal. 6.9.</p>
+               </div>
+               <div type="question">
+                  <head>Queſt.</head>
+                  <p>Q. <hi>Is it not a ſure ſigne of unworthy recei<g ref="char:EOLhyphen"/>ving, if we become worſe after we have received?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> We muſt diſtinguiſh betwixt a reall worſeneſſe, and Satans deluſions.</p>
+                  <p n="1">1. If we become really worſe, then a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>redly <pb n="60" facs="tcp:96134:34"/>our unworthy receiving made that ho<g ref="char:EOLhyphen"/>ly Ordinance ineffectuall unto us; as unto Judas, and Simon Magus.</p>
+                  <p n="2">2. But though paſſiens ſtir in us more furi<g ref="char:EOLhyphen"/>ouſly, and temptations aſſaile us more deſpe<g ref="char:EOLhyphen"/>rately after we have received, then they did before; we muſt not conclude thence, that we received unworthily; but by the plaine contrary.</p>
+                  <p>For if by prayer and practice we continue conſtantly to reſiſt theſe ſinfull motions; our conſtancie in that our reſiſting, proveth that we were worthy receivers: for then wee may be ſure, that (becauſe ſin (in our worthy receiving) had a deadly wound, and that Sa<g ref="char:EOLhyphen"/>tan was diſlodged out of his too long kept lodging) ſin would the more furiouſly rage, and Satan more fiercely aſſault.</p>
+               </div>
+               <div type="question">
+                  <head>Queſt.</head>
+                  <p>Q. <hi>I ſwore both afore, and in the act of recu<g ref="char:EOLhyphen"/>ving new obſervance, I come far ſhort of perfor<g ref="char:EOLhyphen"/>mance: was I not then an unworthy receiver?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The true ſight and reall ſenſe of our imperfections, with a zealous endeavour to be perfect, is the greateſt perfection we can attaine unto in this life: for to know our fins, to confeſſe, and forſake them, is to finde<pb n="61" facs="tcp:96134:34"/>mercy, Prov.
+28.13. And to endeavour zea<g ref="char:EOLhyphen"/>louſly, is to be accepted of God through Chriſt, 2 Cor. 8.12.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>V. 29. <hi>For he that eareth and drinketh un<g ref="char:EOLhyphen"/>worthily, eateth and drinketh dam<g ref="char:EOLhyphen"/>nation to himſelfe, not diſcerning the Lords body.</hi>
+               </head>
+               <p>Q. <hi>Wee have heard what unworthy eating, and drinking is: But what is meant by dam<g ref="char:EOLhyphen"/>nation?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. Some Interpreters read it thus: They eat and drink judgement to themſelves. But becauſe the H. Ghoſt did affirme, v. 27. that ſuch were guilty of the body and bloud of the Lord, which was proved to be murder; it is more conſonant to the ſcope of the H. Ghoſt to read it damnation.</p>
+               <p n="2">2. Damnation is the conſummation of ſpirituall death; or the higheſt degree of that eternall puniſhment which the Lord hath ad<g ref="char:EOLhyphen"/>judged unto reprobates for ſinne, Revel. 19.2.3.</p>
+               <p>
+                  <pb n="62" facs="tcp:96134:35"/>Damnation is infinite in reſpect of loſſe: for reprobates loſe God, who is that infinite and only good, Mat.
+19.17.</p>
+               <p>Damnation is eternall in reſpect of dura<g ref="char:EOLhyphen"/>tion; for it ſhall never be ended, Mark. 9.44.46.48.</p>
+               <p>Hence is the higheſt height of all extrea<g ref="char:EOLhyphen"/>meſt torments upon their ſoules and bodies; having a never dying worme of their accu<g ref="char:EOLhyphen"/>ſing conſcience within them, eternall tor<g ref="char:EOLhyphen"/>ments of devouring fire round about them, ugly divells to be their only companions: And all to continue everlaſtingly, Luke 16.23.</p>
+            </div>
+            <div type="section">
+               <head>Not diſcerning the Lords body.</head>
+               <p>Q. <hi>What is that, To diſcerne the Lords body?</hi>
+               </p>
+               <p n="1">
+                  <hi>A.</hi> 1. To have the Lords body in higheſt eſteem, duly conſidering its excellencies, that ſo with moſt exact examination, prepa<g ref="char:EOLhyphen"/>ration, conſideration, and ſanctification, wee come and receive at the Lords Table.</p>
+               <p n="2">2. That that bread, and that wine, even after the words of inſtitution, remaine bread<pb n="63" facs="tcp:96134:35"/>and wine in ſubſtance. And although that Chriſts humane body be in heaven, Act. 3.21. Heb. 8.4. Yet in due receiving this ſacra<g ref="char:EOLhyphen"/>mentall bread and wine, all faithfull recei<g ref="char:EOLhyphen"/>vers get in this Sacrament, Chriſts body, and ſpilt bloud, by faith; as his owne words (Take, eat, drinke, This is my body which is broken for you: This is my bloud which was ſhed for many for remiſſion of ſinnes) doe prove.</p>
+               <p n="3">3. It is by a full knowledge of our dam<g ref="char:EOLhyphen"/>nable condition by ſin; and to know what Chriſt hath done and ſuffered for us, that ſo we may prepare our ſelves to be both ready and willing to doe and ſuffer for his ſake, Philip. 1.29.</p>
+               <p>Q. <hi>What doth this teach thee?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Foure things:</p>
+               <p n="1">1. The deadly and damnable condition of eſpecially perverſe ignorants, who neither know, nor will be taught what infinite good there is in worthy receiving; nor what infi<g ref="char:EOLhyphen"/>nite evill is in unworthy receiving: They are murderers of Chriſt, v. 27.</p>
+               <p n="2">2. Their deſperate eſtate, who either ma<g ref="char:EOLhyphen"/>liciouſly deſpiſe, or careleſſely neglect their examination, preparation, conſideration and<pb n="64" facs="tcp:96134:36"/>fanctification; and yet dare adventure to re<g ref="char:EOLhyphen"/>ceive: Thoſe eat and drinke damnation to themſelves, v. 29.</p>
+               <p n="3">3. Their dangerous condition, who having time and opportunity to examin themſelves; yet will not communicate: Thoſe are deſpi<g ref="char:EOLhyphen"/>ſers of Chriſt, Luk. 10.16.</p>
+               <p n="4">4. And their bleſſed eſtate, who come well prepared, having on their wedding gar<g ref="char:EOLhyphen"/>ment, Chriſt; for they get the ſeale of the Covenant, Rom. 4.11. They get increaſe of grace, and of all ſpirituall graces: They get Chriſt, who is our life, Col. 3.4. Our light, Rev. 21.23. And our all, Col. 3.11.</p>
+               <trailer>FINIS.</trailer>
+               <epigraph>
+                  <q>
+                     <hi>Soli Deo gloria in aeternum.</hi>
+                  </q>
+               </epigraph>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:96134:36"/>
+            <p>
+               <hi>Imprimatur.</hi> Ia. Cranford,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Aug.</hi> 28.
+1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
